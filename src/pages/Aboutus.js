@@ -6,7 +6,7 @@ render() {
     return (
             <div  className="back">
                 <div className = "frame5">
-                <h1>ABOUT US</h1>
+                <h1>ABOUT US as maderchod</h1>
                 </div>
             </div>
     );
