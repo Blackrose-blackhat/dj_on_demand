@@ -1,0 +1,25 @@
+.searchInput{
+    background-color: rgba(255, 255, 255, 0.402);
+    align-items: center;
+    display: flex;
+    height: 2vw;
+    border: 1px solid rgb(184, 101, 101);
+    padding: 10px 20px;
+    border-radius: 9vw;
+    width: 79vw;
+    max-width: 960px;
+    
+}
+.searchInput > input{
+    flex: 1;
+    padding: 10px 20px;
+    font-size: medium;
+    border: none;
+    background-color: transparent;
+}
+.searchInput > input:focus{
+    outline-width: 0px;
+}
+.searchInput button{
+    display: none;
+}
